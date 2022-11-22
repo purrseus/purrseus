@@ -1,3 +1,4 @@
+![octocat_jumping](https://github.githubassets.com/images/mona-loading-dark.gif)
 ### Nothing here.
 
 <!--
