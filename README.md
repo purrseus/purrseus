@@ -1,4 +1,5 @@
-![octocat_jumping](https://github.githubassets.com/images/mona-loading-dark.gif)
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="octocat_jumping" style="width: 256px; height: 256px" />
+
 ### Nothing here.
 
 <!--
